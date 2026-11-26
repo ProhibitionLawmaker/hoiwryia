@@ -1,0 +1,23 @@
+{
+  "repo": "miro-online-whiteboard-desktop",
+  "product": "Miro Online Whiteboard Desktop",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "miro-online-whiteboard",
+    "miro-online",
+    "how-to-install-miro-online",
+    "how-to-setup-miro-online",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "miro-whiteboard",
+    "miro-online-whiteboard-desktop"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Miro Online Whiteboard Desktop"
+}
